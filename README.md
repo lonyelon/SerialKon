@@ -25,7 +25,7 @@ serial write 4
 ```
 
 ### help
-Shows the help _/(*_*)\_
+Shows the help :/.
 ```
 help
 ```
