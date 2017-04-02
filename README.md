@@ -2,7 +2,7 @@
 Terminal app for writting information to serial.
 
 ## Commands
-###serial
+### serial
 Edits serial configuration, like the serial port or rate.
 ```
 serial set name COM3
@@ -18,19 +18,19 @@ There is an specific serial command for help too.
 serial help
 ```
 
-###write
+### write
 Writes a value to the serial. The value must be betwen 0 and 255 (both included).
 ```
 serial write 4
 ```
 
-###help
+### help
 Shows the help _/(*_*)\_
 ```
 help
 ```
 
-###clear
+### clear
 Clears the console
 ```
 clear
