@@ -1,5 +1,5 @@
 # SerialKon
-Terminal app for writting information to serial.
+Terminal app for writting information to serial. Written in C# by lonyelon.
 
 ## Commands
 ### serial
